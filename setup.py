@@ -10,14 +10,14 @@ EXTRAS_DEV_TEST = [
 
 # Setting up
 setup(
-    name="hanzipy",
+    name="pinyin-tone-converter",
     version=version,
-    author="昆汀",
-    author_email="synkx@hotmail.fr",
+    author="Lingyuai",
+    author_email="developers@lingyuai.com",
     description=DESCRIPTION,
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Synkied/pinyin-tone-converter",
+    url="https://github.com/Lingyuai/pinyin-tone-converter",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[],
@@ -25,7 +25,7 @@ setup(
         "dev": EXTRAS_DEV_TEST,
         "dev-test": EXTRAS_DEV_TEST,
     },
-    download_url=("https://github.com/Synkied/pinyin-tone-converter/archive/%s.tar.gz" % version),
+    download_url=("https://github.com/Lingyuai/pinyin-tone-converter/archive/%s.tar.gz" % version),
     keywords=[
         "python",
         "pinyin",
