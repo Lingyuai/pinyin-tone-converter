@@ -20,7 +20,7 @@ pinyin = {
 }
 
 
-class PinyinConverter:
+class PinyinToneConverter:
     def get_accent_map(self):
         stars = (
             "a*i a*o e*i ia* ia*o ie* io* iu* "
@@ -70,7 +70,3 @@ class PinyinConverter:
             converted_text = converted_text.replace(word_match, replacement)
 
         return converted_text
-
-
-if __name__ == "__main__":
-    text = PinyinConverter().convert_text("man2 tou4 lv4 lü4")
