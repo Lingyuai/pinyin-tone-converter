@@ -1,8 +1,8 @@
 # pinyin-tone-converter
 
 <p align="center">
-    <a href="https://circleci.com/gh/Lingyuai/pinyin-tone-converter">
-        <img src="https://circleci.com/gh/Lingyuai/pinyin-tone-converter.svg?style=svg" alt="TravisCI Build Status"/>
+    <a href="https://circleci.com/gh/Synkied/pinyin-tone-converter">
+        <img src="https://circleci.com/gh/Synkied/pinyin-tone-converter.svg?style=svg" alt="TravisCI Build Status"/>
     </a>
 </p>
 
