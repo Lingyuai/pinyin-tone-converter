@@ -23,4 +23,4 @@ PinyinToneConverter().convert_text("lu4")
 "lù"
 ```
 
-Examples can be seen in tests (https://github.com/Lingyuai/pinyin-tone-converter/tree/main/tests).
+Examples can be seen in tests https://github.com/Lingyuai/pinyin-tone-converter/tree/main/tests
